@@ -12,8 +12,9 @@ In the GUI, you'd have the file selected and you'd be inside the Changes tab.
 
 
 > How do you revert (backout) a commit?
- using command line type `git reset --hard HEAD~(number of steps back you want to go)` or `git reset <the-sha-of-that-commit>`
+
+using command line type `git reset --hard HEAD~(number of steps back you want to go)` or `git reset <the-sha-of-that-commit>`
 
 > What does HEAD refer to in the context of git?
 
-answer goes here eventually
+HEAD is the commit that Git is currently pointing to.
