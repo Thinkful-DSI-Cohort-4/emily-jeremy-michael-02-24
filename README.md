@@ -18,3 +18,5 @@ using command line type `git reset --hard HEAD~(number of steps back you want to
 > What does HEAD refer to in the context of git?
 
 HEAD is the commit that Git is currently pointing to.
+
+Changing file here.
