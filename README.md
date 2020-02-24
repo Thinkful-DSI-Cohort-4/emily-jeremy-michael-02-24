@@ -7,7 +7,9 @@ Select the target repository, and select the "Changes" tab to view changed files
 
 > How do you see the contents of what changed within each file for a commit?
 
-answer goes here eventually
+On the command line, you would type `git diff <filename>`
+In the GUI, you'd have the file selected and you'd be inside the Changes tab.
+
 
 > How do you revert (backout) a commit?
 
