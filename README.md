@@ -3,7 +3,7 @@ Answers to questions
 
 > How do you see the files changed within each commit using GitHub Desktop GUI?
 
-answer goes here eventually
+Select the target repository, and select the "Changes" tab to view changed files. Alternately, using the command line, sing the `git status` or `git log` commands.
 
 > How do you see the contents of what changed within each file for a commit?
 
